@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Divyansh1552005
-- 👀 I’m interested in web developement , game developement and cyber security.
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in Web development, Game development, and Cyber security.
+- 🌱 I’m currently learning C++.
   
-- 📫 How to reach me ...
+- 📫 www.linkedin.com/in/divyansh-sharma-b05897286 - This is my LinkedIn account.
+
+
 
 <!---
 Divyansh1552005/Divyansh1552005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
