@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Divyansh1552005
-- 👀 I’m interested in Web development, Game development, and Cyber security.
+- 👀 I’m interested in Web development and Cyber security.
 - 🌱 I’m currently learning C++.
   
 - 📫 www.linkedin.com/in/divyansh-sharma-b05897286 - This is my LinkedIn account.
