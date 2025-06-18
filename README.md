@@ -28,13 +28,16 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Core Subjects
-1. Computer Organisation and Architecture 
-2. Theory of Computation
-3. Digital System Design
-4. Operating Systems (OS)
-5. Computer Networks (CN)
-6. Object-Oriented Programming (OOPs)
-7. Relational Database Management Systems (RDBMS)
+
+1. **Data Structures and Algorithms (DSA)**
+2. **Operating Systems (OS)**
+3. **Computer Networks (CN)**
+4. **Object-Oriented Programming (OOPs)**
+5. **Relational Database Management Systems (RDBMS)**
+6. **Computer Organisation and Architecture (COA)**
+7. **Theory of Computation (TOC)**
+8. **Digital System Design**
+
 
 
 ## 📌 Pinned Repositories:
