@@ -91,6 +91,34 @@
   </table>
 </div>
 
+## 🏆 Codolio Profile Cards:
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🧩 Data Structures & Algorithms</h3>
+        <div align="center">
+          <a href="https://codolio.com/profile/YCp7ONOS/card" target="_blank">
+            <img src="https://codolio.com/api/profile/YCp7ONOS/card/dsa" alt="DSA Profile Card" width="100%">
+          </a>
+        </div>
+        <p align="center">Showcasing problem-solving skills and algorithmic thinking through competitive programming challenges.</p>
+      </td>
+      <td width="50%">
+        <h3 align="center">💻 Development Skills</h3>
+        <div align="center">
+          <a href="https://codolio.com/profile/YCp7ONOS/card" target="_blank">
+            <img src="https://codolio.com/api/profile/YCp7ONOS/card/development" alt="Development Profile Card" width="100%">
+          </a>
+        </div>
+        <p align="center">Demonstrating full-stack development expertise and modern web technologies proficiency.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=divyansh1552005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
