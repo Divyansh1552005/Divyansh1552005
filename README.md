@@ -1,3 +1,8 @@
+<p align="center">
+	<img src="header_img.jpg">
+</p>
+
+
 # 💫 About Me:
 <div style="text-align: justify;">
 
