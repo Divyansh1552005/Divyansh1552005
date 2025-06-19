@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-<div style="text-align: justify;">
+<div style="text-align: justify; font-size: 14px">
 
 🚀 **Full-Stack Developer in the Making** - Currently mastering the MERN stack with a focus on backend development and integrating cutting-edge AI solutions into real-world applications.
 
