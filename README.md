@@ -83,13 +83,13 @@
       <td width="50%">
         <h3 align="center">✅ List-Tasks Application</h3>
         <div align="center">
-          <a href="#" target="_blank"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
-          <a href="#" target="_blank"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
+          <a href="https://github.com/Divyansh1552005/React_Beginner_Projects/tree/main/10TodoApp" target="_blank"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
+          <a href="https://listtasks.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
         </div>
         <p align="center">A feature-rich, mobile-responsive React Todo app with categorized task management, real-time search, progress tracking, Tailwind UI, and full CRUD via collapsible sidebar navigation.</p>
         <div align="center">
           <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-          <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<!--           <img src="https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black"> -->
           <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
           <img src="https://img.shields.io/badge/Local%20Storage-FF6B6B?style=for-the-badge&logo=html5&logoColor=white">
         </div>
@@ -100,7 +100,8 @@
           <a href="#" target="_blank"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
           <a href="#" target="_blank"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
         </div>
-        <p align="center">Modern, responsive personal portfolio showcasing development journey and projects. Built with latest web technologies for optimal performance.</p>
+        <p align="center">A modern, responsive personal portfolio built with the latest web technologies, showcasing projects, skills, and the developer's journey with smooth performance and clean UI.
+</p>
         <div align="center">
           <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
           <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
