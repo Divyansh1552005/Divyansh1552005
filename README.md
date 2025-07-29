@@ -56,7 +56,7 @@
         <h3 align="center">🤖 AI Medical Chatbot (RAG)</h3>
         <div align="center">
           <a href="https://github.com/Divyansh1552005/Medical_Chatbot_OpenAI.git" target="_blank"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
-          <a href="#" target="_blank"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
+<!--           <a href="#" target="_blank"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a> -->
         </div>
         <p align="center">Intelligent Healthcare Assistant powered by Retrieval-Augmented Generation. Built with advanced NLP techniques for accurate medical query responses.</p>
         <div align="center">
@@ -69,8 +69,8 @@
       <td width="50%">
         <h3 align="center">🏥 Hospital Management System</h3>
         <div align="center">
-          <a href="#" target="_blank"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
-          <a href="#" target="_blank"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
+          <a href="https://github.com/Divyansh1552005/prescripto-full-stack#" target="_blank"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
+<!--           <a href="#" target="_blank"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a> -->
         </div>
         <p align="center">Comprehensive MERN Stack Healthcare Platform with integrated AI chatbot, patient management, and appointment scheduling system.</p>
         <div align="center">
