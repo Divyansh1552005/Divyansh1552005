@@ -103,12 +103,11 @@
         </div>
         <p align="center">A modern, responsive personal portfolio built with the latest web technologies, showcasing projects, skills, and the developer's journey with smooth performance and clean UI.</p>
         <div align="center">
-          <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+          <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
           <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
         </div>
       </td>
     </tr>
-    <tr>
       <td width="50%">
         <h3 align="center">✅ List-Tasks Application</h3>
         <div align="center">
