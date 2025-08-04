@@ -98,8 +98,8 @@
       <td width="50%">
         <h3 align="center">💼 Portfolio Website</h3>
         <div align="center">
-          <a href="#" target="_blank"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
-          <a href="#" target="_blank"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
+          <a href="https://github.com/Divyansh1552005/Divyansh-portfolio" target="_blank"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
+          <a href="https://divyansh1552005-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
         </div>
         <p align="center">A modern, responsive personal portfolio built with the latest web technologies, showcasing projects, skills, and the developer's journey with smooth performance and clean UI.</p>
         <div align="center">
