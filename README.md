@@ -173,5 +173,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=divyansh1552005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=divyansh1552005&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1552005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyansh1552005&theme=github-compact&custom_title=Pac-Man's%20Activity%20Trail&hide_border=true&bg_color=0d1117&color=ff7b00&line=ff7b00&point=f0f6fc)
 ---
 [![](https://visitcount.itsvg.in/api?id=divyansh1552005&icon=0&color=0)](https://visitcount.itsvg.in)
