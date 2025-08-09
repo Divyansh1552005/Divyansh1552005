@@ -46,7 +46,6 @@
 | 8 | Digital System Design | DSD |
 
 
-
 ## 📌 Pinned Repositories:
 
 <div align="center">
@@ -83,6 +82,20 @@
     </tr>
     <tr>
       <td width="50%">
+        <h3 align="center">📝 BlogSpace</h3>
+        <div align="center">
+          <a href="https://github.com/Divyansh1552005/BlogSpace" target="_blank"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
+          <a href="https://blogspace-alpha.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
+        </div>
+        <p align="center">A modern blogging platform for sharing knowledge and stories. Full-featured platform with rich text editing, secure authentication, and beautiful dark theme design.</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+          <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white">
+          <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+          <img src="https://img.shields.io/badge/TinyMCE-000000?style=for-the-badge&logo=tinymce&logoColor=white">
+        </div>
+      </td>
+      <td width="50%">
         <h3 align="center">📄 PDF IMG Toolkit</h3>
         <div align="center">
           <a href="https://github.com/Divyansh1552005/PDF-IMG-Toolkit.git" target="_blank"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Code"></a>
@@ -95,6 +108,8 @@
           <img src="https://img.shields.io/badge/Desktop-4285F4?style=for-the-badge&logo=windows&logoColor=white">
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%">
         <h3 align="center">💼 Portfolio Website</h3>
         <div align="center">
@@ -107,7 +122,6 @@
           <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
         </div>
       </td>
-    </tr>
       <td width="50%">
         <h3 align="center">✅ List-Tasks Application</h3>
         <div align="center">
@@ -121,6 +135,8 @@
           <img src="https://img.shields.io/badge/Local%20Storage-FF6B6B?style=for-the-badge&logo=html5&logoColor=white">
         </div>
       </td>
+    </tr>
+    <tr>
       <td width="50%">
         <h3 align="center">🔐 Password Generator</h3>
         <div align="center">
