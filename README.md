@@ -21,7 +21,7 @@
 
 ## GitHub Stats
 
-I find these kinds of statistics cool , as they make it really easy to analyze someone’s skill set and work abilities.
+I find these kinds of statistics cool , as they motivate me to learn more, code more (for some reason which idk)
 
 ![](https://github-readme-stats.vercel.app/api?username=divyansh1552005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=divyansh1552005&theme=dark&hide_border=false)  
