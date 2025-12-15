@@ -14,9 +14,27 @@
 </div>
 
 ## Socials:
-| Portfolio | Email | LinkedIn | X (Twitter) | Hashnode |
-|-----------|-------|----------|------------|----------|
-| [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=appveyor&logoColor=white)](https://divyansh1552005-portfolio.vercel.app/) | [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:officialdslc1552005@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/divyansh-sharma-b05897286) | [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/divyansh1552005) | [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge)](https://divyanshblogs.hashnode.dev/) |
+
+
+- **Email:** You can reach out to me via email at  
+  [officialdslc1552005@gmail.com](mailto:officialdslc1552005@gmail.com).  
+  I usually reply within **24–48 hours**.
+
+- **Instant Messaging (Signal):** For quicker communication, message me on  
+  [Signal](https://signal.me/#eu/OWYHsUzKDcLLXcoxG1iQ4aP2bF9NkznUMVfrSsV9d9L-EuU06F9IoLiZ2jLYw1J5).
+
+- **Portfolio:** Explore more about me, my projects, and my work at  
+  [my portfolio](https://divyansh1552005-portfolio.vercel.app/).
+
+- **Blogs:** I write technical blogs and share what I learn here —  
+  [check out my blogs](https://divyanshblogs.hashnode.dev/).
+
+- **LinkedIn:** Connect with me professionally on  
+  [LinkedIn](https://linkedin.com/in/divyansh-sharma-b05897286).
+
+- **X (Twitter):** I also share thoughts and updates on tech —  
+  [follow me on X (Twitter)](https://x.com/divyansh1552005).
+
 
 
 ## GitHub Stats
