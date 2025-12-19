@@ -33,11 +33,28 @@
 ## GitHub Stats
 
 I find these kinds of statistics cool , as they motivate me to learn more, code more (for some reason which idk)
+<p align="center">
+  <img
+    width="35%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Divyansh1552005&theme=github_dark"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    width="35%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divyansh1552005&theme=github_dark"
+  />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=divyansh1552005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=divyansh1552005&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=divyansh1552005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyansh1552005&theme=github-compact&custom_title=Pac-Man's%20Activity%20Trail&hide_border=true&bg_color=0d1117&color=ff7b00&line=ff7b00&point=f0f6fc)
+<div align="center">
+  <img
+    width="75%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divyansh1552005&theme=github_dark"
+  />
+</div>
+
+<br/>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyansh1552005&theme=github-compact&hide_border=true&bg_color=0d1117&color=ff7b00&line=ff7b00&point=f0f6fc)
 
 ---
 
