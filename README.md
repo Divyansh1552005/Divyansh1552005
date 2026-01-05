@@ -7,7 +7,7 @@
 <div style="text-align: justify; font-size: 14px">
 <h3 align="center">"I love creating things which can be helpful for either me or others."</h3>
 
-- You can talk to me about full stack development (mainly **JS full stack** and of course I like developing the backend more :) hehe) or Cloud platforms like AWS or containerising applications and managing them using Docker and K8's.
+- You can talk to me about full stack development (mainly **JS full stack** and of course I like developing the backend more :) hehe) or Cloud platforms like AWS or containerising applications using Docker.
 - I also love linux since its more customisable as compared to windows and it gives me more control. You can say, it has made me less scared of the terminal and nowadays, for a lot of things like installation of softwares and many other things, i prefer using the terminal instead of the GUI. Btw, the distribution I use is Fedora. In the beginning, I thought of installing arch linux, but as I was not enough tech-savvy and since it is a DIY distribution, I decided to move on with a beginner friendly distro like Fedora. Currently, as a hobby I read books related to Linux to understand it more. (The one I am reading currently is **"The linux Command Line by William Shotts"**)
 - I am also learning about Generative AI since AI is the most hyped up thing in the tech community right now. You know, it is fun creating those RAG chatbots for your website with your custom data.
 
